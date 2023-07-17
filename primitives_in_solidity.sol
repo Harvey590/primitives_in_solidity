@@ -10,7 +10,7 @@ contract DataType_Test3 {
 
     int8 public i8 = -1;
     int public i256 = 456;
-    int public i = -123; // int is same as int256
+    int public i = -123; // int data type is same as int256
 
     // minimum and maximum of int
     int public minInt = type(int).min;
